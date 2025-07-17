@@ -1,6 +1,6 @@
 # Changelog
 
-## [25.07.01] - Firmware Update
+## [25.07.02] - Firmware Update
 
 ### What's New
 1. Release firmware update feature for both AM10 and AH10.
