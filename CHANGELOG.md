@@ -9,7 +9,7 @@
 ### What's Fixed
 1. Optimized the software's memory usage.
 2. Improved window scaling for better display on different screens.
-3. Enhanced the user interface for a smoother experience.
+3. Fixed UI bugs and polished interaction for smoother experience.
 4. Improved error handling when loading mouse information to reduce software crashes.
 5. Fixed bugs related to mouse keyboard functions and macro key features.
 
