@@ -3,17 +3,18 @@
 ## [25.07.01] - Firmware Update
 
 ### What's New
-1. Release firmware update feature for both AM10 and AH10
-2. On/off toggle button for AM10 RGB settings
+1. Release firmware update feature for both AM10 and AH10.
+2. On/off toggle button for AM10 RGB settings.
 
 ### What's Fixed
 1. Optimized the software's memory usage.
-2. Optimized software window scaling.
-3. Fixed bug related with window scaling -- you can now minimize and maximize window view without issues.
-4. Fix bugs related with Mouse keyboard function and Mouse macrokey features.
+2. Improved window scaling for better display on different screens.
+3. Enhanced the user interface for a smoother experience.
+4. Improved error handling when loading mouse information to reduce software crashes.
+5. Fixed bugs related to mouse keyboard functions and macro key features.
 
 ### Firmware Update
-- AH10: Increased microphone sensitivity by 10dB
+- AH10: Adjusted microphone sensitivity by +10dB.
 
 ---
 
