@@ -1,5 +1,36 @@
 # Changelog
 
+## [25.12.01]
+
+### New Features
+
+- When closing the APP window, a prompt notification is displayed to remind the user that the APP is running in the background.
+- A prompt notification pops up when the mouse battery level is below 20%.
+- When the mouse connection method changes, it automatically returns to the home page.
+- The home page now displays a notification for available software updates.
+- The mouse main page now displays a notification for available firmware updates.
+- A clear device connection status is added to the mouse main page.
+
+### Optimizations
+
+- Headset Firmware Update GUI Optimization: For non-current versions, the "Update" button is highlighted; for the current version, the "Update" button is disabled.
+- Added error handling when failing to retrieve the mouse firmware version, prompting the user to refresh.
+- After the mouse firmware update is completed, it automatically jumps to the home page to reselect the device.
+- Added a reminder text to the mouse firmware update page.
+- Optimized the function command for applying Macrokey.
+
+### Bug Fixes
+
+- Prevented the CMD prompt from opening during headset and mouse firmware updates.
+- Fixed incorrect DPI data display when manually switching profiles.
+- Fixed inability to rename profile name.
+
+### Mouse Firmware Update
+
+- **AM10:** Fixed the issue where DPI could not be switched with Profile Change.
+
+---
+
 ## [25.07.02] - Firmware Update
 
 ### What's New
