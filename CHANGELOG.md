@@ -1,7 +1,5 @@
 # Changelog
 
----
-
 ## [25.12.01]
 
 ### New Features
