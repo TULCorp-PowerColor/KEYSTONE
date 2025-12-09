@@ -1,24 +1,23 @@
 # Changelog
 
-## [25.12.01]
+## [25.12.01] - Mouse Enhancement
 
 ### New Features
 
 - When closing the APP window, a prompt notification is displayed to remind the user that the APP is running in the background.
-- A prompt notification pops up when the mouse battery level is below 20%.
-- When the mouse connection method changes, it automatically returns to the home page.
-- The home page now displays a notification for available software updates.
-- The mouse main page now displays a notification for available firmware updates.
-- A clear device connection status is added to the mouse main page.
+- Notification for new software updates.
+- AM10 New Iteration Features : 
+  - When the mouse connection method changes, it automatically returns to the home page.
+  - Pops up reminder when the mouse battery level is below 20%.
+  - Notification for new AM10 firmware updates.
+  - Show device connection status.
 
 ### Optimizations
 
-- Headset Firmware Update GUI Optimization: For non-current versions, the "Update" button is highlighted; for the current version, the "Update" button is disabled.
+- Headset Firmware Update GUI Optimization: Improved clarity of update buttons.
 - Added error handling when failing to retrieve the mouse firmware version, prompting the user to refresh.
-- After the mouse firmware update is completed, it automatically jumps to the home page to reselect the device.
-- Added a reminder text to the mouse firmware update page.
-- Optimized the function command for applying Macrokey.
-
+- Improved mouse firmware update flow.
+  
 ### Bug Fixes
 
 - Prevented the CMD prompt from opening during headset and mouse firmware updates.
