@@ -1,5 +1,21 @@
 # Changelog
 
+## [26.04.01] - Setting and Mouse Optimization
+ 
+### New Features
+ 
+- User can now choose whether the app launches automatically at startup (via Settings).
+- GUI now auto-launches after first reboot post-installation.
+ 
+### Optimizations
+ 
+- **AM10:** 
+Improved mouse button safety: At least one button must be assigned the left-click function.
+Improved UI update speed after DPI changes by updating only DPI-related elements.
+Increased the range of supported keys for keyboard shortcuts.
+
+---
+
 ## [25.12.01] - Mouse Enhancement
 
 ### New Features
