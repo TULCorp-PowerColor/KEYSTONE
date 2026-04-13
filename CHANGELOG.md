@@ -10,9 +10,9 @@
 ### Optimizations
  
 - **AM10:** 
-Improved mouse button safety: At least one button must be assigned the left-click function.
-Improved UI update speed after DPI changes by updating only DPI-related elements.
-Increased the range of supported keys for keyboard shortcuts.
+  - Improved mouse button safety: At least one button must be assigned the left-click function.
+  - Improved UI update speed after DPI changes by updating only DPI-related elements.
+  - Increased the range of supported keys for keyboard shortcuts.
 
 ---
 
