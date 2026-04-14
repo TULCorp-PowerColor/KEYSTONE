@@ -1,5 +1,14 @@
 # Changelog
 
+## [26.04.02] - Keyboard Shortcut Optimization
+
+### Optimizations
+
+- **AM10:** 
+  - Optimized the clickable area for keyboard shortcuts.
+
+---
+
 ## [26.04.01] - Setting and Mouse Optimization
  
 ### New Features
